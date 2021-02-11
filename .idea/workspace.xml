@@ -41,26 +41,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f16c9fcd-a63c-4bc2-bc3e-6081b374ec9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/decentralized-communications-technologies.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/decentralized-communications-technologies.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/discrimination-and-harassment.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/discrimination-and-harassment.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/employment.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/employment.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/open-positions-and-bounties.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/open-positions-and-bounties.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/our-philosophy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/our-philosophy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/performance-and-career-development.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/performance-and-career-development.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/standards-of-conduct.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/standards-of-conduct.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/vacation-and-holidays.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/vacation-and-holidays.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/worker-compensation.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/worker-compensation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/worker-proposals.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/worker-proposals.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Governance/Rep.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/Rep.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Governance/Snapshot.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/Snapshot.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Governance/Tokenomics.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/Alchemy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Governance/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Products/Mesa.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Products/Mesa.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Products/Omen.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Products/Omen.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Products/omen/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Products/omen/faq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Products/Omen.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Products/omen/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,17 +80,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/Products/omen" />
+      <recent name="$PROJECT_DIR$/docs/GetConnected" />
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/../docs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/GetConnected" />
       <recent name="$PROJECT_DIR$/docs/Products" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets/images" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/GetConnected" />
-      <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/../docs" />
     </key>
   </component>
   <component name="RunManager">
@@ -144,7 +127,7 @@
       <workItem from="1612013414175" duration="50000" />
       <workItem from="1612204980579" duration="1266000" />
       <workItem from="1612557384856" duration="7522000" />
-      <workItem from="1612913296706" duration="3705000" />
+      <workItem from="1612913296706" duration="5938000" />
     </task>
     <servers />
   </component>
@@ -188,11 +171,11 @@
       <screen x="-1169" y="-1417" width="3440" height="1417" />
     </state>
     <state width="1268" height="409" key="GridCell.Tab.0.right/-1169.-1417.3440.1417/0.23.1440.807@-1169.-1417.3440.1417" timestamp="1610651321678" />
-    <state x="-558" y="-887" width="586" height="548" key="find.popup" timestamp="1613046445349">
+    <state x="-558" y="-887" width="586" height="548" key="find.popup" timestamp="1613049546429">
       <screen x="-1169" y="-1417" width="3440" height="1417" />
     </state>
     <state x="-558" y="-887" width="586" height="548" key="find.popup/-1169.-1417.3440.1417/0.23.1440.797@-1169.-1417.3440.1417" timestamp="1612907917725" />
-    <state x="-558" y="-887" width="586" height="548" key="find.popup/-1169.-1417.3440.1417/0.23.1440.803@-1169.-1417.3440.1417" timestamp="1613046445349" />
+    <state x="-558" y="-887" width="586" height="548" key="find.popup/-1169.-1417.3440.1417/0.23.1440.803@-1169.-1417.3440.1417" timestamp="1613049546429" />
     <state x="-602" y="-954" width="586" height="490" key="find.popup/-1169.-1417.3440.1417/0.23.1440.805@-1169.-1417.3440.1417" timestamp="1608644846203" />
     <state x="-602" y="-956" width="586" height="490" key="find.popup/-1169.-1417.3440.1417/0.23.1440.807@-1169.-1417.3440.1417" timestamp="1610660638888" />
     <state x="1076" y="-1201" width="670" height="676" key="search.everywhere.popup" timestamp="1612908891288">
