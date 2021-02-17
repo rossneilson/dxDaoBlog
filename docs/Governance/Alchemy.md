@@ -16,84 +16,28 @@ nav_order: 4
 
 ---
 
-Most lists can be rendered with pure Markdown.
+## ALCHEMY
 
-## Unordered list
+[Alchemy](https://alchemy.daostack.io/dao/0x519b70055af55a007110b4ff99b0ea33071c720a) is DXdao’s on-chain governance system that was created by DAOstack. On DXdao’s Alchemy portal, REP holders can vote for on-chain proposals for the budgeting, resource allocation, and strategy decisions of DXdao.
 
-<div class="code-example" markdown="1">
-- Item 1
-- Item 2
-- Item 3
+Anyone can make proposals on Alchemy. A proposal is equivalent to a project pitch that contains an explanation of objectives, methods, costs and milestones of the proposed project.
 
-_or_
+Anyone can predict through staking GEN tokens on whether a proposal is going to pass or not. This helps guide the collective voting process by sorting and prioritizing the proposals.
 
-* Item 1
-* Item 2
-* Item 3
-</div>
-```markdown
-- Item 1
-- Item 2
-- Item 3
+Currently, only REP holders can vote on proposals. DXdao is, however, finalizing its Governance 2.0 initiative, which will give on-chain voting power to both DXD and REP holders that stake DXD in DXdao’s governance contract, lock liquidity on Swapr, or stake DXD in an Omen prediction market.
 
-_or_
+## ALCHEMY VOTING PARAMETERS
 
-* Item 1
-* Item 2
-* Item 3
-```
+Alchemy created the Genesis Protocol, which is an implementation of holographic consensus as a smart contract on the Ethereum blockchain.
 
-## Ordered list
+**On-Chain Voting.** Alchemy requires an ethereum address to incur REP on and vote. The Ethereum address is where these parameters are stored (not where the protocol itself is).
 
-<div class="code-example" markdown="1">
-1. Item 1
-1. Item 2
-1. Item 3
-</div>
-```markdown
-1. Item 1
-1. Item 2
-1. Item 3
-```
+**Activation Time.** Represents that date and time, represented in Unix time, when proposals can be submitted.
 
-## Task list
+**Queued Vote Period Limit.** A non-boosted proposal is open for voting for 21 days.
 
-<div class="code-example" markdown="1">
-- [ ] hello, this is a todo item
-- [ ] hello, this is another todo item
-- [x] goodbye, this item is done
-</div>
-```markdown
-- [ ] hello, this is a todo item
-- [ ] hello, this is another todo item
-- [x] goodbye, this item is done
-```
+**Boosting.** Anyone can boost a proposal by staking GEN to show confidence in the proposal’s passage. Proposals that are boosted receive a shorter vote time of seven (7) days. Once a proposal is boosted, the proposal’s vote time will shorten after 24 hours, if no one stakes against the proposal’s passage.
 
-## Definition list
+**Proposal Reputation Reward.** ETH addresses may claim REP for making proposals that pass.
 
-Definition lists require HTML syntax and aren't supported with the GitHub Flavored Markdown compiler.
-
-<div class="code-example" markdown="1">
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-</div>
-```html
-<dl>
-  <dt>Name</dt>
-  <dd>Godzilla</dd>
-  <dt>Born</dt>
-  <dd>1952</dd>
-  <dt>Birthplace</dt>
-  <dd>Japan</dd>
-  <dt>Color</dt>
-  <dd>Green</dd>
-</dl>
-```
+**Pre-Boosted Vote Period Limit.** DXdao currently has a pre-boosting period of one (1) day, which is the length of time that a proposal must maintain a confidence score (upstake divided by downstake) higher than the boosting threshold to become eligible for boosting.
