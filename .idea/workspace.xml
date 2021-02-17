@@ -41,9 +41,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f16c9fcd-a63c-4bc2-bc3e-6081b374ec9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Governance/Alchemy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/Alchemy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Products/mesa/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Products/mesa/faq.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Products/omen/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Products/omen/faq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Governance/Daotalk.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/Daotalk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Governance/Rep.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/Rep.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="issues-20-and-onward" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1m0tf3uwfqj8DtWRPnEQCErwjO0" />
@@ -81,18 +85,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/Products/omen" />
+      <recent name="$PROJECT_DIR$/docs/GetConnected" />
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/../docs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/GetConnected" />
       <recent name="$PROJECT_DIR$/docs/Products" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets/images" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/Products/omen" />
-      <recent name="$PROJECT_DIR$/docs/GetConnected" />
-      <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/../docs" />
     </key>
   </component>
   <component name="RunManager">
