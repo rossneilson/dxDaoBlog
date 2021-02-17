@@ -52,22 +52,24 @@ A single worker may receive a maximum of 4% REP for their paid contributions to 
 
 ### DXdao Compensation Table:
 
-| Experience Level | Monthly Base Compensation            
-|:-------|:-------:|
-| Level 1 | $4,000 | 
-| Level 2 | $5,000   | 
-| Level 3   | $6,000  | 
-| Level 4   | $7,000 | 
-| Level 5 | $8,000 |
+| Experience Level | Monthly Base Compensation |
+|:-----------------|:--------------------------|
+| Level 1          | $4,000                    |
+| Level 2          | $5,000                    |
+| Level 3          | $6,000                    |
+| Level 4          | $7,000                    |
+| Level 5          | $8,000                    |
+
+| Experience Level | Monthly DXD Compensation |
+|:-----------------|:--------------------------|
+| Level 1          | $2,000                    |
+| Level 2          | $3,000                    |
+| Level 3          | $4,000                    |
+| Level 4          | $5,000                    |
+| Level 5          | $5,000                    |
+
+
 ⠀
-| Experience Level | Monthly DXD Compensation            
-|:-------|:-------:|
-| Level 1 | $2,000 | 
-| Level 2 | $3,000   | 
-| Level 3   | $4,000  | 
-| Level 4   | $5,000 | 
-| Level 5 | $6,000 | 
- 
 ### Experience Guidelines:
 
 1.  `I’m new! I don’t have many marketable life skills, but I’m passionate about DXdao and eager to learn.`

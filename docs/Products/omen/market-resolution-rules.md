@@ -101,4 +101,4 @@ In general, if the market does not break a rule of the Invalid Market section, r
 
 - The fact that multiple outcomes could be valid at the same time does **not** make the question invalid if **only one** of those outcomes occurs. 
 
-    - **Ex**: *“How many seats will the European Pirate Party win in the 2014 European elections?”* with answers *“0”*, *“1-10”* and *“10+”* will only be invalid if the pirate party wins exactly 10 seats.
+    - **Ex**: *“How many seats will the European Pirate Party win in the 2014 European elections?”* with answers *“0”*, *“1-10”* and *“10+”* will only be invalid if the pirate party wins exactly 10 seats.git

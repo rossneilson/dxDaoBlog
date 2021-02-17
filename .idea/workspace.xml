@@ -40,23 +40,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f16c9fcd-a63c-4bc2-bc3e-6081b374ec9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/Meetings/BizDev.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Meetings/Community.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Meetings/Development.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Meetings/Governance.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Meetings/ProductStrategy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Meetings/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BrandingAssets.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BrandingAssets.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/decentralized-communications-technologies.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/decentralized-communications-technologies.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/employment.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/employment.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ContributorHub/equal-opportunity.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/equal-opportunity.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/how-we-work.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/how-we-work.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/our-philosophy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/our-philosophy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/standards-of-conduct.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/standards-of-conduct.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ContributorHub/worker-compensation.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/worker-compensation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ContributorHub/worker-proposals.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ContributorHub/worker-proposals.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/GetConnected/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GetConnected/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Governance/Alchemy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/Alchemy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Governance/Daotalk.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/Daotalk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Governance/Rep.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/Rep.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Products/omen/market-resolution-rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Products/omen/market-resolution-rules.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +62,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="issues-20-and-onward" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1m0tf3uwfqj8DtWRPnEQCErwjO0" />
@@ -95,18 +90,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/Products/omen" />
-      <recent name="$PROJECT_DIR$/docs/GetConnected" />
-      <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/../docs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/Meetings" />
       <recent name="$PROJECT_DIR$/docs/GetConnected" />
       <recent name="$PROJECT_DIR$/docs/Products" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/Products/omen" />
+      <recent name="$PROJECT_DIR$/docs/GetConnected" />
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/../docs" />
     </key>
   </component>
   <component name="RunManager">
@@ -144,7 +139,7 @@
       <workItem from="1612557384856" duration="7522000" />
       <workItem from="1612913296706" duration="5938000" />
       <workItem from="1613144635708" duration="568000" />
-      <workItem from="1613169701154" duration="2808000" />
+      <workItem from="1613169701154" duration="1031000" />
     </task>
     <servers />
   </component>
