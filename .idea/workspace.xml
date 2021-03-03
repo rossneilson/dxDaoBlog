@@ -43,7 +43,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Governance/Daotalk.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/Daotalk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Meetings/BizDev.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Meetings/BizDev.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Meetings/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Meetings/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +139,7 @@
       <workItem from="1613169701154" duration="1031000" />
       <workItem from="1614083621678" duration="3313000" />
       <workItem from="1614335201613" duration="580000" />
-      <workItem from="1614782397867" duration="2721000" />
+      <workItem from="1614782397867" duration="3012000" />
     </task>
     <servers />
   </component>

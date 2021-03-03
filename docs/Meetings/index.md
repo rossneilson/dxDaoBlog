@@ -3,6 +3,7 @@ layout: default
 title: Meetings
 nav_order: 6
 has_children: true
+has_table: true
 ---
 
 ## GOVERNANCE PHILOSOPHY  

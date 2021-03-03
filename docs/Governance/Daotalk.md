@@ -3,7 +3,6 @@ layout: default
 title: Daotalk
 parent: Governance
 nav_order: 2
-hasTable: true
 ---
 
 ## DAOTALK
