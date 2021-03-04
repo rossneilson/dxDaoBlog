@@ -3,6 +3,8 @@ layout: default
 title: Product Strategy
 parent: Meetings
 nav_order: 5
+has_table: true
+airtable_url: "https://airtable.com/embed/shrJQVg1fTNhwWeVM?backgroundColor=teal&viewControls=on"
 ---
 
 ## HOW TO GAIN REP

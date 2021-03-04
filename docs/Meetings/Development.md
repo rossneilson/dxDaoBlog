@@ -3,6 +3,8 @@ layout: default
 title: Development
 parent: Meetings
 nav_order: 2
+has_table: true
+airtable_url: "https://airtable.com/embed/shrXbyfNKbwHWaCAt?backgroundColor=teal&viewControls=on"
 ---
 
 # Buttons

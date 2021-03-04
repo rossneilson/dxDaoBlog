@@ -42,7 +42,11 @@
     <list default="true" id="f16c9fcd-a63c-4bc2-bc3e-6081b374ec9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Governance/Daotalk.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Governance/Daotalk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Meetings/BizDev.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Meetings/BizDev.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Meetings/Community.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Meetings/Community.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Meetings/Development.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Meetings/Development.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Meetings/Governance.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Meetings/Governance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Meetings/ProductStrategy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Meetings/ProductStrategy.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Meetings/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Meetings/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,13 +191,14 @@
       <screen x="-1169" y="-1417" width="3440" height="1417" />
     </state>
     <state x="768" y="-1417" width="1502" height="1417" key="SettingsEditor/-1169.-1417.3440.1417/0.23.1440.805@-1169.-1417.3440.1417" timestamp="1614335807372" />
-    <state x="-602" y="-954" width="586" height="490" key="find.popup" timestamp="1614282422079">
+    <state x="-602" y="-954" width="586" height="518" key="find.popup" timestamp="1614878600216">
       <screen x="-1169" y="-1417" width="3440" height="1417" />
     </state>
     <state x="-558" y="-887" width="586" height="548" key="find.popup/-1169.-1417.3440.1417/0.23.1440.797@-1169.-1417.3440.1417" timestamp="1612907917725" />
     <state x="-558" y="-887" width="586" height="548" key="find.popup/-1169.-1417.3440.1417/0.23.1440.803@-1169.-1417.3440.1417" timestamp="1613049546429" />
     <state x="-602" y="-954" width="586" height="490" key="find.popup/-1169.-1417.3440.1417/0.23.1440.805@-1169.-1417.3440.1417" timestamp="1614282422079" />
     <state x="-602" y="-956" width="586" height="490" key="find.popup/-1169.-1417.3440.1417/0.23.1440.807@-1169.-1417.3440.1417" timestamp="1610660638888" />
+    <state x="-602" y="-954" width="586" height="518" key="find.popup/-1169.-1417.3440.1417/0.23.1440.810@-1169.-1417.3440.1417" timestamp="1614878600216" />
     <state x="1076" y="-1201" width="670" height="676" key="search.everywhere.popup" timestamp="1612908891288">
       <screen x="-1169" y="-1417" width="3440" height="1417" />
     </state>
