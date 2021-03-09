@@ -119,7 +119,6 @@ layout: table_wrappers
           {%- endfor -%}
           <nav aria-label="Breadcrumb" class="breadcrumb-nav">
             <ol class="breadcrumb-nav-list">
-
               {% if page.grand_parent %}
                 <li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.grand_parent }}</a></li>
                 <li class="breadcrumb-nav-list-item"><a href="{{ second_level_url }}">{{ page.parent }}</a></li>
@@ -139,6 +138,7 @@ layout: table_wrappers
         {% if page.has_table == true %}
         <iframe class="airtable-embed" src={{page.airtable_url}} frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
         {% endif %}
+
         {% if page.has_children == true and page.has_toc != false %}
           <hr>
           <h2 class="text-delta">Table of contents</h2>
@@ -148,7 +148,6 @@ layout: table_wrappers
               <li>
                 <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>{% if child.summary %} - {{ child.summary }}{% endif %}
               </li>
-
             {% endfor %}
           </ul>
         {% endif %}
