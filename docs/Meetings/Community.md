@@ -3,6 +3,8 @@ layout: default
 title: Community
 parent: Meetings
 nav_order: 4
+has_table: true
+airtable_url: "https://airtable.com/embed/shrhbMZ6NTJfPv1G6?backgroundColor=teal&viewControls=on"
 ---
 
 ## SNAPSHOT  

@@ -4,6 +4,7 @@ title: Meetings
 nav_order: 6
 has_children: true
 has_table: true
+airtable_url: "https://airtable.com/embed/shrsNufwx2gWfZ5LH?backgroundColor=teal&viewControls=on"
 ---
 
 ## GOVERNANCE PHILOSOPHY  

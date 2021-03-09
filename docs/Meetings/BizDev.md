@@ -3,9 +3,11 @@ layout: default
 title: BizDev
 parent: Meetings
 nav_order: 1
+has_table: true
+airtable_url: "https://airtable.com/embed/shro5NCrbXEY0ggQf?backgroundColor=teal&viewControls=on"
 ---
 
-# Lists
+# BizDev
 {: .no_toc }
 
 ## Table of contents

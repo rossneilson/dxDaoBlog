@@ -3,6 +3,8 @@ layout: default
 title: Governance
 parent: Meetings
 nav_order: 3
+has_table: true
+airtable_url: "https://airtable.com/embed/shr0sd26TNSi1nsVP?backgroundColor=teal&viewControls=on"
 ---
 
 ## HOW TO GAIN REP
