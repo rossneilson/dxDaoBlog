@@ -45,7 +45,7 @@ nav_order: 2
 
   
 
-**Step 1**: Go to [Alchemy](https://alchemy.daostack.io/dao/0x519b70055af55a007110b4ff99b0ea33071c720a), DXdao’s voting interface, and Click ‘[Plugins](https://alchemy.daostack.io/dao/0x519b70055af55a007110b4ff99b0ea33071c720a/schemes)’.
+**Step 1**: Go to [Alchemy, DXdao’s voting interface](https://alchemy.daostack.io/dao/0x519b70055af55a007110b4ff99b0ea33071c720a), and Click ‘[Plugins](https://alchemy.daostack.io/dao/0x519b70055af55a007110b4ff99b0ea33071c720a/schemes)’.
 
   
   
