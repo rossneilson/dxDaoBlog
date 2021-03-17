@@ -80,7 +80,7 @@
                 <a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a>
               {%- endif -%}
               {%- if child.external_link  -%}
-              <img width="10px" height="10px" src="/assets/images/connectedIcons/{{child.title}}.ico" alt=""><a href="{{child.external_link}}" target="_blank" class="nav-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
+              <img src="/assets/images/connectedIcons/{{child.title}}.ico" alt=""><a href="{{child.external_link}}" target="_blank" class="nav-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
               {%- else -%}
               <a href="{{ child.url | absolute_url }}" class="nav-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
               {%- endif -%}
