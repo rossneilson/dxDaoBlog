@@ -65,7 +65,7 @@
           <a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a>
         {%- endif -%}
         {%- if node.active -%}
-        <div  class="nav-list-link static-text{% if page.url == node.url %} active{% endif %}">{{ node.title }}</div>
+        <div class="static-text{% if page.url == node.url %} active{% endif %}">{{ node.title }}</div>
         {%- else -%}
         <a href="{{  node.url | absolute_url  }}" class="nav-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
         {%- endif -%}
@@ -75,12 +75,12 @@
           <ul class="nav-list ">
           {%- for child in children_list -%}
             {%- unless child.nav_exclude -%}
-            <li class="nav-list-item {% if page.url == child.url or page.parent == child.title %} active{% endif %}">
+            <li class="nav-list-item {% if page.url == child.url or page.parent == child.title %} active{% endif %}{% if child.external_link %}image-wrap{% endif %}">
               {%- if child.has_children -%}
                 <a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a>
               {%- endif -%}
               {%- if child.external_link  -%}
-              <a href="{{child.external_link}}" target="_blank" class="nav-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
+              <img width="10px" height="10px" src="/assets/images/connectedIcons/{{child.title}}.ico" alt=""><a href="{{child.external_link}}" target="_blank" class="nav-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
               {%- else -%}
               <a href="{{ child.url | absolute_url }}" class="nav-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
               {%- endif -%}
