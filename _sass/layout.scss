@@ -85,11 +85,15 @@
   img {
     height: 16px;
     width: 16px;
-    margin-top:auto;
-    margin-bottom:auto;
+    margin-top: auto;
+    margin-bottom: auto;
   }
   a {
     padding-left: 1rem !important;
+  }
+  &:hover,
+  &.active {
+    background-color: $feedback-color;
   }
 }
 .site-nav,
