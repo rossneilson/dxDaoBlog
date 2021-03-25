@@ -6,7 +6,9 @@ nav_order: 1
 
 ---
 
-## Open Positions
+# Open Positions
+
+___
 
 DXdao is a decentralized collective that builds and governs DeFi protocols. It was spawned in the spring of 2019; over 450 addresses have Reputation (REP), which is non-transferrable and governs DXdao. In May of 2020, DXdao launched a bonding curve fundraiser and issued the DXD token, which has a claim on profits from DXdao’s products. DXdao’s product suite includes Omen, a leading prediction markets platform, Swapr, a governance-enabled and multi-chain AMM with adjustable fees, and Mesa, a decentralized IDO platform.
 
@@ -28,7 +30,14 @@ DXdao is entirely on-chain. Everything from hiring decisions to product updates 
 
 To get involved, reach out in the [#introductions channel on DXdao’s Keybase](https://keybase.io/team/dx_dao).    
 
-## Senior Solidity Engineer
+---
+
+1. TOC
+{:toc}
+
+# Senior Solidity Engineer
+
+___
 
 DXdao is a decentralized collective native to the internet that is building a suite of Web3 products. As such, it heavily relies on the technical expertise of solidity developers with strong knowledge of building on top of Ethereum.
 
@@ -50,7 +59,9 @@ DXdao is a decentralized collective native to the internet that is building a su
     
 -   Team player who communicates well
 
-## HR/People Mover
+# HR/People Mover
+
+___
 
 DXdao is a decentralized collective, native to the internet, but it still needs processes and norms on how we work (well) together. This role will need to think about the traditional things that HR focuses on, hiring/retaining top talent + creating a fair and fun work environment, but will need to build new frameworks and standards for a new type of organization.
 
@@ -76,7 +87,9 @@ DXdao is a decentralized collective, native to the internet, but it still needs 
     
 -   An independent, forward-thinking person - everything is on-chain
     
-## Marketing/Narrative Builder
+# Marketing/Narrative Builder
+
+___
 
 DXdao’s on-chain governance and transparent product management engage a small community of enthusiasts, but it needs a strategic mind to craft this into a cohesive narrative for the rest of the industry. Moreover, the three primary products (Omen, Swapr and Mesa) come with their own brand story. This role will need to develop an overarching narrative for DXdao and its products and execute on a content strategy to tell this story to the broader cryptocurrency space. This is a great opportunity to tell a story about a unique and storied project on Ethereum.
 
@@ -100,7 +113,9 @@ DXdao’s on-chain governance and transparent product management engage a small 
     
 -   An independent, forward thinking person that can work across time zones and cultures
 
-## Treasury manager/accounting
+# Treasury manager/accounting
+
+___
 
 DXdao raised over 21,000 ETH that is managed entirely on-chain by DXdao governance. The treasury is meant to fund development of DXdao products and support the DXdao ecosystem. The community has begun diversifying the treasury into stablecoins and making plans to seed liquidity into DXdao products and other investments. This role will help the community make portfolio allocation decisions by working with product teams and understanding DXdao’s future costs. This role will serve as a hub of information and support for the community-led investment decisions.
 
@@ -124,7 +139,9 @@ DXdao raised over 21,000 ETH that is managed entirely on-chain by DXdao governan
     
 -   A self-starter who is comfortable with working without direction and driving independent projects
     
-## Senior Web 3 Front-End
+# Senior Web 3 Front-End
+
+___
 
 DXdao is a decentralized collective native to the internet that is building a suite of Web3 products. As such, it heavily relies on the technical expertise of Web3 developers with solid knowledge of building dApps on top of Ethereum.
 
@@ -156,7 +173,9 @@ DXdao is a decentralized collective native to the internet that is building a su
     
 -   Self-starter and entrepreneurship spirit are a huge plus!
 
-## Biz Dev Whiz
+# Biz Dev Whiz
+
+___
 
 DXdao is a decentralized collective native to the internet that is building a suite of Web3 products. As these products grow, the business, partnership and relationship opportunities become critical to the success of DXdao and its products. DXdao is looking to empower an enthusiastic self-starter who wants to jump right in and start capitalizing on important opportunities, while interacting with all parts of DXdao.
 
