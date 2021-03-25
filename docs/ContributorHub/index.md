@@ -5,9 +5,11 @@ nav_order: 5
 has_children: true
 ---
 
-## Welcome to the DXdao Contributor Hub!
+# Welcome to the DXdao Contributor Hub!
 
-Contained in this category is all the pertinent information for prospective and established contributors alike.  
+___
+
+### This category contains all the pertinent information for prospective and established contributors alike.
   
 ## Guiding Tenets
 
@@ -21,8 +23,8 @@ Contained in this category is all the pertinent information for prospective and 
 
 Looking to get involved?  
   
-Take a look at **Open Positions and Bounties** to get a better understanding of the Dao’s current needs.
+Take a look at [**Open Positions and Bounties**]({% link docs/ContributorHub/open-positions-and-bounties.md %}) to get a better understanding of DXdao’s current needs.
 
-Looking to better understand the workings of DXdao? Read **How we Work**.  
+Interested in learning more about DXdao's inner workings? Read [**How we Work**]({% link docs/ContributorHub/how-we-work.md %}).  
 
-Ready to integrate yourself as a contributor with the DXdao community? Start with **Employment**.
+Ready to integrate yourself as a contributor with the DXdao community? Start with [**Employment**]({% link docs/ContributorHub/employment.md %}).
