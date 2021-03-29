@@ -34,8 +34,6 @@ The suite of DeFi products built and governed by DXdao currently includes:
 [**Swapr**]({% link docs/Products/swapr/index.md %}) - A governance enabled fork of Uniswap.
 
 [**Mesa**]({% link docs/Products/mesa/index.md %}) – A DEX built on the Gnosis Protocol, transitioning to an IDO platform.
-
-[**Rails**]({% link docs/Products/rails/index.md %}) – A payments application built on Loopring’s zkRollup.  
   
 ### Looking to contribute?  
   
