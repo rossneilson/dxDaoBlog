@@ -6,6 +6,19 @@ grand_parent: Products
 
 ---
 
+# Omen FAQ
+{: .no_toc }
+
+___
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## What is Omen? 
  
 Omen is an information market platform. Users can create and/or participate in information markets on various topics (crypto, politics, sports, etc.) and risk their crypto on possible outcomes. The oracle provider then validates the outcome, and the users who hold shares of the correct outcome collect the crypto held as collateral. In the case of a dispute, an arbitrator can be called to make a judgment. 
