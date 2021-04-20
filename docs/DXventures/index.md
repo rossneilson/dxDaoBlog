@@ -2,7 +2,7 @@
 layout: default
 title: DXventures
 nav_order: 3
-has_children: true
+has_children: false
 ---
 
 # DXventures
@@ -31,3 +31,7 @@ DXventures is a great way to create deal flow for Mesa and Swapr. You can imagin
 ## Open Call to Projects that are Solving the Needs of DAOs
 
 If you are an individual or team that is solving the pain points that DAOs face, and you are interested in learning more about DXventures, please join the DXdao [Discord](https://discord.gg/4QXEJQkvHH) and let us know what you are working on!
+
+Looking to make an inquiry in private?
+
+Contact Sky, DXventures lead, on [Daotalk](https://daotalk.org/u/sky/) or [Keybase](https://keybase.io/skymine).
