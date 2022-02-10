@@ -11,6 +11,6 @@ nav_order: 2
 
 ___
 
-![](https://media.discordapp.net/attachments/914408536677691470/938203844662394960/Roadmap_2022_Q1-Q2.png)
+![](https://lh3.googleusercontent.com/QfGdEdFl9oaZhAwiM-LYe13VH9PKMBTvqUpguS5TGQCbA0qfC4coRwe52mZs-XeI0uufXuQCO_azf4aMbgG0F9gSjgkvDRFLTyO1Neu-5XSqfVUKD4wCSYXbjnSSRnzlQ_oAMhD8)
 
 The most recent Swapr roadmap can be found above, posted on 02/01/2022. In the case where it has become outdated, check in with the Swapr channels on the <a href="https://discord.gg/4QXEJQkvHH" target="_blank">DXdao Discord</a>.

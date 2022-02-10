@@ -3,7 +3,7 @@ layout: default
 title: Setting Pinata
 parent: DXvote
 grand_parent: Governance
-nav_order: 3
+nav_order: 1
 
 ---
 
