@@ -28,7 +28,7 @@ DXD is locked with ⅓ vesting after 1 year of the contributor contract start da
 
 ETH payment is determined by the price of ETH at the date and time of proposal submission. Because of the high volatility of ETH price, contributors may also determine the ETH payment based on the weekly average of the ETH price.
 
-DXD payment is set to market price, determined by taking the average DXD price over the last 1 month in US dollars calculated on <a href="https://swapr.eth.link/#/swap" target="_blank">Swapr</a>. 
+DXD payment is set to market price, determined by taking the average DXD price over the last 1 month in US dollars calculated on <a href="https://swapr.eth.limo/#/swap" target="_blank">Swapr</a>. 
 
 ### REP
 

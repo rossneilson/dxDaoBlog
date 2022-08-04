@@ -16,7 +16,7 @@ Check each individual network config file for specific contract addresses
 ## Rinkeby
 Mainnet's testnet with DXvote deployed
 - Use a rinkeby faucet for testnet ethereum
-- Get testnet DXD from dxtrust.eth.link
+- Get testnet DXD from dxtrust.eth.limo
 
 # Arbitrum / Arbitrum Rinkeby
 Real L2

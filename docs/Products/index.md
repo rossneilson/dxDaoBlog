@@ -16,13 +16,13 @@ DXdao owns and operates DeFI products and protocols on Ethereum, Arbitrum, and G
 
 A multi-chain AMM with a suite of unique features including LP governance, DIY farming, and much more.
 
-You can visit the Swapr Dapp <a href="https://swapr.eth.link/#/swap" target="_blank">here</a> or learn more about Swapr [here]({% link docs/Products/swapr/index.md %}).
+You can visit the Swapr Dapp <a href="https://swapr.eth.limo/#/swap" target="_blank">here</a> or learn more about Swapr [here]({% link docs/Products/swapr/index.md %}).
 
 ## Carrot
 
 A community-driven programmable incentives platform designed to distribute rewards when set criteia have been met.
 
-You can visit the Carrot Dapp <a href="https://carrot.eth.link/#/swap" target="_blank">here</a> or learn more about Carrot [here]({% link docs/Products/carrot/index.md %}).
+You can visit the Carrot Dapp <a href="https://carrot.eth.limo/#/swap" target="_blank">here</a> or learn more about Carrot [here]({% link docs/Products/carrot/index.md %}).
 
 ## DXgov
 
@@ -34,19 +34,19 @@ You can learn more about DXgov [here]({% link docs/Products/dxgov/index.md %}).
 
 A fully decentralized multi-chain prediction market platform.
 
-You can visit the Omen Dapp <a href="https://omen.eth.link/#/liquidity" target="_blank">here</a> or learn more about Omen [here]({% link docs/Products/omen/index.md %}).
+You can visit the Omen Dapp <a href="https://omen.eth.limo/#/liquidity" target="_blank">here</a> or learn more about Omen [here]({% link docs/Products/omen/index.md %}).
 
 ## Aqua
 
 A fair auction IDO launchpad.
 
-You can visit the Aqua Dapp <a href="https://aqua.eth.link/" target="_blank">here</a> or learn more about Aqua [here]({% link docs/Products/aqua/index.md %}).
+You can visit the Aqua Dapp <a href="https://aqua.eth.limo/" target="_blank">here</a> or learn more about Aqua [here]({% link docs/Products/aqua/index.md %}).
 
 ## Mesa
 
 A permissionless DEX that enables ring trades to maximize liquidity
 
-You can visit the Mesa V1 Dapp <a href="https://mesa.eth.link/" target="_blank">here</a> or learn more about Mesa [here]({% link docs/Products/mesa/index.md %}).
+You can visit the Mesa V1 Dapp <a href="https://mesa.eth.limo/" target="_blank">here</a> or learn more about Mesa [here]({% link docs/Products/mesa/index.md %}).
 
 ## Other
 

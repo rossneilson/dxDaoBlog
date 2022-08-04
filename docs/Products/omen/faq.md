@@ -30,7 +30,7 @@ Omen is an information market platform. Users can create and/or participate in i
  
 ## What do I need to participate in Omen? 
  
-You will need <a href="https://metamask.io/" target="_blank">Metamask</a> or <a href="https://walletconnect.org/apps/" target="_blank">Wallet Connect</a>, some amount of ETH to execute transactions, and the collateral token of the market in which you want to participate. If you don’t have that token yet, you can exchange tokens at <a href="https://swapr.eth.link/" target="_blank">Swapr.eth</a>
+You will need <a href="https://metamask.io/" target="_blank">Metamask</a> or <a href="https://walletconnect.org/apps/" target="_blank">Wallet Connect</a>, some amount of ETH to execute transactions, and the collateral token of the market in which you want to participate. If you don’t have that token yet, you can exchange tokens at <a href="https://swapr.eth.limo/" target="_blank">Swapr.eth</a>
  
 ## Where do I see my outcome tokens? 
  

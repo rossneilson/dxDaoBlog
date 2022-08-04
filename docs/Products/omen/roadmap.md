@@ -58,14 +58,14 @@ Eclipse
 
 ### Mainnet Support
 
-The Omen guild is convinced that the Ethereum Mainnet is not the right place for Omen anymore. Network congestion and high transaction costs hinder the usage and adoption of Omen. Over the coming months Omen on Ethereum Mainnet will transition to the subdomain [main.omen.eth](https://main.omen.eth) which will always be accessible through the Omen UI. Meanwhile the root domain [omen.eth](https://omen.eth.link) will connect to xDai on default.
+The Omen guild is convinced that the Ethereum Mainnet is not the right place for Omen anymore. Network congestion and high transaction costs hinder the usage and adoption of Omen. Over the coming months Omen on Ethereum Mainnet will transition to the subdomain [main.omen.eth](https://main.omen.eth) which will always be accessible through the Omen UI. Meanwhile the root domain [omen.eth](https://omen.eth.limo) will connect to xDai on default.
 
 ### xDai
 
 Omen needs to scale now without degrading access or the user experience. We achieve that by tightly integrating xDai into Omen without the user needing to switch networks. Users only need to bridge Dai through our bridge interface([powered by STAKE bridge](https://bridge.xdaichain.com/)) and that´s it! Once that is done, a user is interacting with Omen through xDai enjoying almost instant feeless transactions. Omen on xDai will also be able to use the DXdao base on xDai to curate markets for validity and use the DXdao as cheaper alternative arbitration service compared to the Kleros arbitration service. Omen on xDai will expand the addressable market by drastically lowering the minimum amount to trade. xDai also introduces a smoother on-ramp for a casual user, no longer requiring ETH to participate.
 
 ### Arbitrum
-Long-term, Omen needs to go where users and assets go. As activity begins to move away from mainnet, Layer 2 scalability solutions - those that maintain the security properties of Ethereum - are emerging as a long-term solution for many dapps. Arbitrum is a Layer 2 optimistic rollup that is EVM compatible, which means the deployment process should be simple and almost identical to the xDai deployment. Arbitrum's increased security properties means that it can have larger deposits, but maintain the speed and cost savings. Arbitrum is expected to launch on mainnet in March. Launching on Arbitrum will make Omen truly "multi-chain" and eventually make [omen.eth](https://omen.eth.link) the hub for all prediction markets.
+Long-term, Omen needs to go where users and assets go. As activity begins to move away from mainnet, Layer 2 scalability solutions - those that maintain the security properties of Ethereum - are emerging as a long-term solution for many dapps. Arbitrum is a Layer 2 optimistic rollup that is EVM compatible, which means the deployment process should be simple and almost identical to the xDai deployment. Arbitrum's increased security properties means that it can have larger deposits, but maintain the speed and cost savings. Arbitrum is expected to launch on mainnet in March. Launching on Arbitrum will make Omen truly "multi-chain" and eventually make [omen.eth](https://omen.eth.limo) the hub for all prediction markets.
 
 ## Timelines
 
@@ -117,7 +117,7 @@ Omen markets use an automated market maker to provide a trading venue for its ou
 
 ![](https://lh6.googleusercontent.com/vaxLTAPk-ol2jUcMKJLSrY-Ev8qry436d1_39vHu2ZToa83_O18xSX72tZCyS_7LT9QmqW_RdXlvt-FZNnnLLfmXvtODfBrpOmHw7h8Gjp0qpoD-UCeWhyI1R9FADBoWotWQk2uO)
 
-With [Omen - Version 1.2.1](https://github.com/protofire/omen-exchange/releases/tag/v1.2.1) users are able to finalize **categorical markets** through the Omen interface without the need to visit [reality.eth](https://reality.eth.link) anymore. We need to extend this feature to **scalar markets** to provide a consistent user experience.
+With [Omen - Version 1.2.1](https://github.com/protofire/omen-exchange/releases/tag/v1.2.1) users are able to finalize **categorical markets** through the Omen interface without the need to visit [reality.eth](https://reality.eth.limo) anymore. We need to extend this feature to **scalar markets** to provide a consistent user experience.
 
 ### Convert ERC-1155 to ERC-20 outcome tokens 
 
@@ -130,7 +130,7 @@ Omen users are buying/selling outcome tokens with the token standard ERC-1155 po
 ![](https://lh5.googleusercontent.com/03SZR2qWbrulG1II-ljqLFj54vdboHK9xR2e9OPT9ZloKddgvDwv5GLF0KJcFcrG6mDjuTT36detAqPcWIjCSNaNOPOSnMpLIWRXLIfwFQ8p36jOrOS10zQhwPe9imvyqcA-qphp)
 
 
-The creation of outcome tokens is currently only possible through a deposit into an Omen market by receiving pool tokens. Anyone should be able to create outcome tokens with the ERC-1155 or ERC-20 token standard. If there multiple venues for a popular market (Like https://swapr.eth.link) this will enable and simply arbitrage opportunities.
+The creation of outcome tokens is currently only possible through a deposit into an Omen market by receiving pool tokens. Anyone should be able to create outcome tokens with the ERC-1155 or ERC-20 token standard. If there multiple venues for a popular market (Like https://swapr.eth.limo) this will enable and simply arbitrage opportunities.
 
 ### Making Omen more Antifragile
 

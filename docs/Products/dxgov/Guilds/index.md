@@ -20,7 +20,7 @@ ___
 
 ___
 
-<a href="https://guilds.eth.link" target="_blank">Guilds</a> are our minimal governance solution. These DAOs fit into the existing liquid token governance model popular in the space and familiar to most. Normal ethereum tokens are locked/staked in return for voting power. 
+<a href="https://guilds.eth.limo" target="_blank">Guilds</a> are our minimal governance solution. These DAOs fit into the existing liquid token governance model popular in the space and familiar to most. Normal ethereum tokens are locked/staked in return for voting power. 
 Guilds offer far more decentralization due to being managed on-chain but with the user experience voters have come to expect with free signed voting, automated execution of actions and more. 
 
 This doesn't solve any major governance issues but does push the space into a more decentralized form of governance necessary considering the amount of liquidity and increased importance of the space as a whole.
@@ -31,7 +31,7 @@ The guild **executes previously authorized functions** to smart contracts after 
 
 - The guild can execute only allowed functions, this means that if you want to call function X to smart contract P you will need to first submit a proposal to allow the execution of function X to smart contract P.
 
-- A guild proposal can have none or multiple actions, each proposal action is a list of ethereum calls, that can execute functions and transfer value. <a href="https://guilds.eth.link" target="_blank">Read more</a>
+- A guild proposal can have none or multiple actions, each proposal action is a list of ethereum calls, that can execute functions and transfer value. <a href="https://guilds.eth.limo" target="_blank">Read more</a>
 
 - The voter can set his vote on a decision only once, the action voted cant be changed, only the voting power can be increased.
 
@@ -45,7 +45,7 @@ The guild **executes previously authorized functions** to smart contracts after 
 
 - The voter can sign a vote that can be executed by other account on his behalf.
 
-- When a proposal is created it enters the voting period. Once the voting period passes if the is no proposal action with enough votes to execute, it will be rejected. If it has enough votes to execute and executes successfully during a the execution period of time, it will be finished successfully. If during that execution period of time the proposal action cant be executed it will be set as failed and wont be able to be executed again once the execution time ends.
+- When a proposal is created it enters the voting period. Once the voting period passes if the is no proposal action with enough votes to execute, it will be rejected. If it has enough votes to execute and executes successfully during the execution period of time, it will be finished successfully. If during that execution period of time the proposal action can't be executed, it will be set as failed and won't be able to be executed again once the execution time ends.
 
 - The guild can be configured to automatically pay the voting costs back to the voter, for this the vote gas a max gas price to be use for vote refund needs to be set.
 

@@ -91,4 +91,4 @@ If the value of collateral assets in vaults reaches the min liquidation ratio, v
 
 
 ⠀
-[Visit the Aqua dapp](https://aqua.eth.link/){: .btn .btn-blue }
+[Visit the Aqua dapp](https://aqua.eth.limo/){: .btn .btn-blue }
