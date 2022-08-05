@@ -17,22 +17,22 @@ This page contains all DXdao contract addresses on Ethereum, Arbitrum, and Gnosi
 
 | Contract Name | Address | Explorer | Interface |
 |--------------|:-------------------------------:|---------|---------------|
-|DXdao Ethereum Avatar |0x519b70055af55a007110b4ff99b0ea33071c720a | [Etherscan](https://etherscan.io/address/0x519b70055af55a007110b4ff99b0ea33071c720a)| [DXvote Governance](https://dxvote.eth.link/#/mainnet/info?view=governance) |
-|DXD Token/Bonding Curve |0xa1d65E8fB6e87b60FECCBc582F7f97804B725521 | [Etherscan](https://etherscan.io/address/0xa1d65E8fB6e87b60FECCBc582F7f97804B725521)| [DXtrust](https://dxtrust.eth.link/) |
+|DXdao Ethereum Avatar |0x519b70055af55a007110b4ff99b0ea33071c720a | [Etherscan](https://etherscan.io/address/0x519b70055af55a007110b4ff99b0ea33071c720a)| [DXvote Governance](https://dxvote.eth.limo/#/mainnet/info?view=governance) |
+|DXD Token/Bonding Curve |0xa1d65E8fB6e87b60FECCBc582F7f97804B725521 | [Etherscan](https://etherscan.io/address/0xa1d65E8fB6e87b60FECCBc582F7f97804B725521)| [DXtrust](https://dxtrust.eth.limo/) |
 
 ### Arbitrum
 
 | Contract Name | Address | Explorer | Interface |
 |--------------|:-------------------------------:|---------|---------------|
 |DXD Token |0xc3ae0333f0f34aa734d5493276223d95b8f9cb37 | [Arbiscan](https://arbiscan.io/address/0xc3ae0333f0f34aa734d5493276223d95b8f9cb37#code)| |
-|DXdao Arbitrum Avatar |0x2b240b523f69b9af3adb1c5924f6db849683a394 | [Arbiscan](https://arbiscan.io/address/0x2b240b523f69b9af3adb1c5924f6db849683a394#code)| [DXvote](https://dxvote.eth.link/#/arbitrum/info?view=governance) |
-|SWPR Wallet Scheme 1.0 |0x3172eDDa6ff8B2b2Fa7FeD40EE1fD92F1F4dd424 | [Arbiscan](https://arbiscan.io/address/0x3172eDDa6ff8B2b2Fa7FeD40EE1fD92F1F4dd424#code)| [DXvote](https://dxvote.eth.link/#/arbitrum) |
+|DXdao Arbitrum Avatar |0x2b240b523f69b9af3adb1c5924f6db849683a394 | [Arbiscan](https://arbiscan.io/address/0x2b240b523f69b9af3adb1c5924f6db849683a394#code)| [DXvote](https://dxvote.eth.limo/#/arbitrum/info?view=governance) |
+|SWPR Wallet Scheme 1.0 |0x3172eDDa6ff8B2b2Fa7FeD40EE1fD92F1F4dd424 | [Arbiscan](https://arbiscan.io/address/0x3172eDDa6ff8B2b2Fa7FeD40EE1fD92F1F4dd424#code)| [DXvote](https://dxvote.eth.limo/#/arbitrum) |
 
 ### Gnosis Chain
 
 | Contract Name | Address | Explorer | Interface |
 |--------------|:-------------------------------:|---------|---------------|
-|DXdao Gnosis Chain Avatar |0xe716ec63c5673b3a4732d22909b38d779fa47c3f | [Blockscout](https://blockscout.com/poa/xdai/address/0xe716EC63C5673B3a4732D22909b38d779fa47c3F/transactions)| [DXvote](https://dxvote.eth.link/#/xdai/info?view=governance) |
+|DXdao Gnosis Chain Avatar |0xe716ec63c5673b3a4732d22909b38d779fa47c3f | [Blockscout](https://blockscout.com/poa/xdai/address/0xe716EC63C5673B3a4732D22909b38d779fa47c3F/transactions)| [DXvote](https://dxvote.eth.limo/#/xdai/info?view=governance) |
 |Genesis Protocol |0xDA309aDF1c84242Bb446F7CDBa96B570E901D4CF | [Blockscout](https://blockscout.com/poa/xdai/address/0xDA309aDF1c84242Bb446F7CDBa96B570E901D4CF/transactions)|  |
 
 ## Swapr

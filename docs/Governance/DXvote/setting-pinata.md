@@ -23,6 +23,6 @@ We will soon have added resiliency via web3.storage which will make this unneces
 ![API key setup](/assets/images/dxgov/pinataApiKeySetting.png)
 - Copy the largest key labelled "JWT"
 ![API key setup](/assets/images/dxgov/pinataCopyKey.png)
-- Click the top right settings icon in DXvote OR this <a href="https://dxvote.eth.link/#/config" target="_blank">DXvote config</a>
+- Click the top right settings icon in DXvote OR this <a href="https://dxvote.eth.limo/#/config" target="_blank">DXvote config</a>
 - Enter KWT key in pinata input and save
 ![API key setup](/assets/images/dxgov/inputApiKey.png)

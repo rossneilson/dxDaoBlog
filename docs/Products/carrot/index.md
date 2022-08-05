@@ -20,4 +20,4 @@ Carrot changes that by enabling projects to run smarter and more efficient liqui
 
 ⠀
 
-[Visit the Carrot dapp](https://Carrot.eth.link/){: .btn .btn-blue }
+[Visit the Carrot dapp](https://Carrot.eth.limo/){: .btn .btn-blue }

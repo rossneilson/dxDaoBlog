@@ -10,7 +10,7 @@ has_children: true
 
 ___
 
-<a href="https://dxvote.eth.link" target="_blank">DXvote</a>, our governance application, is responsible for interfacing with the smart contracts that keep our DAO and treasury safe and governed. 
+<a href="https://dxvote.eth.limo" target="_blank">DXvote</a>, our governance application, is responsible for interfacing with the smart contracts that keep our DAO and treasury safe and governed. 
 DXvote is all about maximal decentralization and replaces the now deprecated alchemy interface in favour of our own. 
 
 The application was built by Augusto and is now being built and maintained by DXgov, a full time DXdao squad dedicated to building governance tools and platforms - read more [**here**]({% link docs/Products/dxgov/index.md %}). 
