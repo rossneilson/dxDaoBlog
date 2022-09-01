@@ -33,4 +33,4 @@ ___
 
   
 
-**Step 4.** Contact a member of the Contributor UX Squad if you have any questions.
+**Step 4.** Contact a member of the ContributorX Squad if you have any questions.
