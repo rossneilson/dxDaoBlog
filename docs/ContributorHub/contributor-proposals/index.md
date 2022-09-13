@@ -53,13 +53,13 @@ State what you did well, what you did okay, and what you need to improve on.
 
 ### **Compensation**:
     
--   Experience Level: 1-5
+-   Experience Level: 1-8
     
 -   Time commitment: Full-time, Part-time, Percent (%) time
     
 -   Salary for 2 months of work at specified level, to be sent half on the first payment proposal and half on the second payment
     
--   DXD vested for 2 years with a 1 year cliff starting the [DATE WORK PERIOD STARTS]
+-   DXD vested for 3 years with a 1 year cliff starting the [DATE WORK PERIOD STARTS]
     
 -   Designated REP to be sent in the second payment proposal
     
