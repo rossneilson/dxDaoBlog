@@ -37,7 +37,7 @@ Contributors that have already completed their first 3 months with DXdao: You wi
 
 A single contributor may receive a maximum of 4% REP for their paid contributions to DXdao.
 
-### Calculating Monthly Compensation For Contributor Proposals
+## Calculating Monthly Compensation For Contributor Proposals
 
 Pick your experience Level 1 through 8, based on experience guidelines (below) and in consultation with the DXdao community.
 
